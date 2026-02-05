@@ -1,6 +1,6 @@
 body
 {
-  background:#0000ff
+  background:#0000ff;
   color:#000000;
   width:100%;
   font-family:san-serif;
@@ -10,10 +10,11 @@ body
 
 .header{
   width:90%;
-  margin:auto:
-  height:120px
+  margin:auto;
+  height:120px;
   line-height:120px;
   background:#41aa8;
   color:#00008B;
 }
+
 

@@ -1,12 +1,9 @@
-body
-{
+body {
   background:#0000ff;
   color:#000000;
   width:100%;
   font-family:san-serif;
-;
-
-{
+}
 
 .header{
   width:90%;
@@ -16,5 +13,6 @@ body
   background:#41aa8;
   color:#00008B;
 }
+
 
 

@@ -1,6 +1,9 @@
 body
 {
-  background-color:green
+  background:#0000ff
+  color:#000000;
+  width:100%;
+  font-family:san-serif;
 ;
 
 {
@@ -13,3 +16,4 @@ body
   background:#41aa8;
   color:#00008B;
 }
+

@@ -39,6 +39,10 @@ body {
   text-decoration:none;
 }
 
+.menu ul li a:hover {
+  background-color:#008b8b;
+  display:block;
+}
 
 
 

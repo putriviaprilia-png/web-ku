@@ -46,6 +46,7 @@ body {
 
 .content{
   width:90%;
+  margin:auto;
   height:420px;
   padding:0.1px;
   background:#fff;
@@ -53,11 +54,11 @@ body {
 }
 
 .border{
-  border:2px solid #4887b9;
+  border:2px solid #008b8b;
   margin-top:1pc;
-  paddimng-bottom:1pc;
+  padding-bottom:1pc;
   padding-left:2pc;
-  padding-righjt:2pc;
+  padding-right:2pc;
 }
 
 .kiri{
@@ -70,7 +71,7 @@ body {
 
 .kanan{
   width:30%
-  floay:left;
+  float:left;
   margin:auto;
   background:#fff;
   height:420px;
@@ -85,7 +86,7 @@ body {
   margin:auto;
   height:40px;
   line-height:40px;
-  background:#417aa8;
+  background:#008b8b;
   color:#fff;
   margin-bottom: 1pc;
 }

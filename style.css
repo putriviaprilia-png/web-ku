@@ -1,4 +1,4 @@
-  body{
+body{
   background: #f3f3f3;
   color: #333;
   width: 100%;
@@ -11,7 +11,7 @@
   margin: auto;
   height: 120px;
   line-height: 120px;
-  background: #008b8b;
+  background: #417aa8;
   color: #fff;
 }
 
@@ -20,7 +20,7 @@
 }
 
 .menu{
-  background-color: #008b8b;
+  background-color: #417aa8;
   height: 50px;
   line-height: 50px;
   position:relative;
@@ -28,8 +28,9 @@
   margin: 0 auto;
 }
 
-.menu ul {
+.menu ul{
   list-style: none;
+}
 
 .menu ul li a {
   float: left;
@@ -41,7 +42,7 @@
 }
 
 .menu ul li a:hover {
-  background-color: #006666;
+  background-color: #4b88bb;
   display:block;
 
 }
@@ -50,9 +51,17 @@
   width: 90%;
   margin: auto;
   height:420px;
-  padding:0,1px;
+  padding:0.1px;
   background: #fff;
-  padding-bottom: 20px;
+  color:#333;
+}
+
+.border {
+  border: 2px solid #008b8b;
+  margin-top: 1pc;
+  padding-bottom: 1pc;
+  padding-left:2pc;
+  padding-right:2pc;
 }
 
 .kiri{
@@ -71,16 +80,8 @@
   height:420px;
 }
 
-.border {
-  border: 2px solid #008b8b;
-  margin-top: 1pc;
-  padding-bottom: 1pc;
-  padding-left:2pc;
-  padding-right:2pc;
-}
-
 .undecor {
-  text-decoration: none;
+  text-decoration:none;
 }
 
 .footer {
@@ -88,7 +89,7 @@
   margin: auto;
   height: 40px;
   line-height: 40px;
-  background: #008b8b;
+  background: #417aa8;
   color: #fff;
   margin-bottom: 1pc;
 }

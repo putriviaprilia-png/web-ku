@@ -111,11 +111,6 @@ body {
   text-align: center;
 }
 
-(max-width: 768px) {
-  .content .jarak {
-    flex-direction: column;
-  }
   .kanan {
     margin-top: 20px;
   }
-}

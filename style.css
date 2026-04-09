@@ -15,22 +15,21 @@
   color: #fff;
 }
 
-.jarak {
+.jarak{
   padding: 0 2pc;
 }
 
-.menu {
+.menu{
   background-color: #008b8b;
   height: 50px;
   line-height: 50px;
   position:relative;
-  width: 90%;
+  width:90%;
   margin: 0 auto;
 }
 
 .menu ul {
   list-style: none;
-  margin: 0
 
 .menu ul li a {
   float: left;
